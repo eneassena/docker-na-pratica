@@ -1,0 +1,9 @@
+link desmotra como resolver problema quando queremos para um container docker e recebemos um erro 
+https://stackoverflow.com/questions/47223280/docker-containers-can-not-be-stopped-or-removed-permission-denied-error/56134376#56134376
+
+comando usado para resolver problema quando o docker container stop não funciona 
+sudo aa-remove-unknown
+
+
+criando uma image de banco de dados mysql e se conectando
+https://hub.docker.com/_/mysql
